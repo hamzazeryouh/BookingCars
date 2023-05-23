@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingCars", "BookingCars.csproj", "{670630E4-5F70-41DB-80B4-01FFA720E67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{0EBC4892-CCDA-44EF-BA40-6862501BAB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{409DCE24-7960-4457-B42A-4E8760988B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670630E4-5F70-41DB-80B4-01FFA720E67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670630E4-5F70-41DB-80B4-01FFA720E67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670630E4-5F70-41DB-80B4-01FFA720E67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670630E4-5F70-41DB-80B4-01FFA720E67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBC4892-CCDA-44EF-BA40-6862501BAB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBC4892-CCDA-44EF-BA40-6862501BAB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBC4892-CCDA-44EF-BA40-6862501BAB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBC4892-CCDA-44EF-BA40-6862501BAB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409DCE24-7960-4457-B42A-4E8760988B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409DCE24-7960-4457-B42A-4E8760988B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409DCE24-7960-4457-B42A-4E8760988B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409DCE24-7960-4457-B42A-4E8760988B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BC1411-93D4-43FA-91DD-56118CF78693}
+	EndGlobalSection
+EndGlobal
